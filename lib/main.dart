@@ -6,10 +6,10 @@ void main() {
       home: Scaffold(
         body: Center(
           child: Text(
-            'Hello Flutter',
+            'Hello Flutter hi hi hi',
             style: TextStyle(
-              fontSize: 25,
-              color: Colors.amber,
+              fontSize: 40,
+              color: Color.fromARGB(255, 98, 7, 255),
             ),
             ),
         ),
